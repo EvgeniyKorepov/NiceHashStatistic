@@ -1,0 +1,2 @@
+# NiceHashStatistic
+Show NiceHash
